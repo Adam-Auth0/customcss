@@ -9,5 +9,5 @@ header.dashboard-header {
 
 header.dashboard-header nav #header {
   background-size: 143px 53px !important;
-  background-image: url("https://cdn.jsdelivr.net/gh/auth0-extensions/auth0-delegated-administration-extension/docs/theme/fabrikam.svg") !important;
+  background-image: url("https://github.com/Adam-Auth0/customcss/tree/master/dae/images/rentokil_sm.png") !important;
 }
